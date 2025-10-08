@@ -1,0 +1,1 @@
+print("section-A\n Section-B \n section-c")
