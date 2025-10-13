@@ -5,7 +5,6 @@ def day_check(day):
         print("ok")
 
         match day:
-            
             case 1:
                 print("monday")
             case 2:
