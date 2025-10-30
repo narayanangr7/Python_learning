@@ -1,3 +1,1 @@
-{
-    "liveServer.settings.port": 5501
-}
+'{"name":"Narayanan","age":17,"isStudent":true,"Skils":["Pythin","SQL","java script",],"address":{"City":"Mumbai","pincode": 400001}}'
